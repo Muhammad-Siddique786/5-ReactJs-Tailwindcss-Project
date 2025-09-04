@@ -5,8 +5,12 @@ import 'react-toastify/dist/ReactToastify.css';
 
 const ReactToastify = () => {
     return (
-        <div className="gap-4 min-h-[90vh] flex justify-center items-center bg-gradient-to-br from-gray-300 via-gray-500 to-gray-700">
-            <div className="flex flex-col gap-4">
+        <div className="gap-4 min-h-[90vh] flex flex-col justify-center items-center bg-gradient-to-br from-gray-300 via-gray-500 to-gray-700">
+             <div>
+                <h1 className='text-3xl font-bold mt-6 mb-5'>Project No.2</h1>
+
+            </div>
+            <div className="flex flex-row gap-4 bg-white p-10 rounded-lg shadow-lg">
                 <Button
                     type="primary"
                     danger
