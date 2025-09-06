@@ -5,7 +5,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 const ReactToastify = () => {
     return (
-        <div className="gap-4 min-h-[90vh] flex flex-col justify-center items-center bg-gradient-to-br from-gray-300 via-gray-500 to-gray-700">
+        <div className="gap-4 min-h-[90vh] flex flex-col justify-center items-center bg-linear-to-r from-cyan-100 via-blue-300 to-indigo-400">
              <div>
                 <h1 className='text-3xl font-bold mt-6 mb-5'>Project No.2</h1>
 
