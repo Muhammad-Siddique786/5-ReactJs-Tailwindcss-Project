@@ -45,9 +45,9 @@ const StopWatch = () => {
   return (
     <div className="min-h-[90vh] flex flex-col items-center bg-[#fafaf9]">
       <h1 className="text-3xl font-bold mt-6 mb-5">Project No.4</h1>
-      <h1 className="text-3xl font-bold mt-6 mb-5 text-gray-800">Stop Watch</h1>
 
       <div className="bg-[#64748b] w-full max-w-sm min-h-[400px] flex flex-col justify-center items-center rounded-lg shadow-lg relative">
+      <h1 className="text-3xl font-bold mt-6 mb-5 text-gray-800">Stop Watch</h1>
         <div className="flex flex-col items-center justify-center h-full">
           <span className="text-6xl font-mono text-white">{formatTime(time)}</span>
 
@@ -81,3 +81,4 @@ const StopWatch = () => {
 };
 
 export default StopWatch;
+ 
