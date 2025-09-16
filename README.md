@@ -1,7 +1,4 @@
-Great 👍 — GitHub pe push karne se pehle README file ko thoda professional aur saaf likh lo.
-Neeche maine aapke text ko ek **clean & attractive README** banakar diya hai:
 
----
 
 # 5-ReactJs-TailwindCSS-Projects
 
